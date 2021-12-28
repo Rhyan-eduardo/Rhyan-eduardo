@@ -34,4 +34,4 @@
 
 ## Dashboard
 
-![Rhyan eduardo Repository stats](https://github-readme-stats.vercel.app/api?Username=Rhyaneduardo&show_icons=true&theme=dracula)
+https://github-readme-stats.vercel.app/api?username={Rhyan-eduardo}&theme=blue-green
