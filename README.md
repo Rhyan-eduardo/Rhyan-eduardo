@@ -30,8 +30,4 @@
 [![WORD](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)](https://github.com/Rhyan-eduardo?tab=repositories)
 [![ILLUSTRATOR](https://aleen42.github.io/badges/src/illustrator.svg)](https://github.com/Rhyan-eduardo?tab=repositories)
 [![PREMIARE](https://aleen42.github.io/badges/src/premiere.svg)](https://github.com/Rhyan-eduardo?tab=repositories)
-[![Seguidores](https://img.shields.io/github/followers/{Rhyan-eduardo}.svg?style=social&label=Follow&maxAge=2592000)]()
 
-## Dashboard
-
-https://github-readme-stats.vercel.app/api?username={Rhyan-eduardo}&theme=blue-green
