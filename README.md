@@ -1,5 +1,8 @@
 
-### Olá eu sou Rhyan eduardo! ✌️
+### Olá, meu nome é Rhyan Eduardo e sou um desenvolvedor de software, product designer e UX. Desenvolvo produtos digitais e Físicos.
+Combinando minhas habilidades em desenvolvimento de software e design de produto, busco criar soluções de tecnologia que sejam bonitas, fáceis de usar e eficazes. Além disso, estou sempre em busca de novos desafios e oportunidades de aprendizado.
+
+Em relação às minhas habilidades técnicas, possuo conhecimento em diversas linguagens de programação, como JavaScript, Python, e bibliotecas, como React. e Node.js.
 
 # Media sociais
 
