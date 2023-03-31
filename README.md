@@ -69,7 +69,8 @@
           <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
           <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
           <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
-           <img src="https://img.shields.io/badge/SASS-5E5C5C?style=for-the-badge&logo=sass&logoColor=white" />
+          <img src="https://img.shields.io/badge/SASS-5E5C5C?style=for-the-badge&logo=sass&logoColor=white" />
+          <img src="https://img.shields.io/badge/python-5E5C5C?style=for-the-badge&logo=python&logoColor=white" />
         </td>
       </tr>
       <tr>
