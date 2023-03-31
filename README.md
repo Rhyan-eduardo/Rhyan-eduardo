@@ -1,4 +1,4 @@
-<h1 align="center">Olá , me chamo Rhyan Eduardo :)</h1>
+<h1 align="left">Olá , me chamo Rhyan Eduardo :)</h1>
 
 <h4 align="left">
 	Olá, sou um Designer de Produtos e Desenvolvedor de Software apaixonado por criar soluções que impactam positivamente a vida das pessoas. Crio software e soluções para negócios e produtos físicos, sempre buscando oferecer uma experiência de usuário excepcional. Meu amor pelo design e pela tecnologia é o que me inspira a cada dia a buscar novos desafios e aprendizados. Estou animado para fazer parte de projetos inovadores e trabalhar em equipe para criar algo verdadeiramente especial. Vamos juntos dar vida às nossas ideias com paixão e entusiasmo!
