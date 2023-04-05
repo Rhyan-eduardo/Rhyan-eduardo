@@ -101,9 +101,4 @@
 
 <br>
 
-<div><center>
-  <a href="https://github.com/Rhyan-eduardo">
-[![Rhyan-eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rhyan-eduardo&count_private=true&show_icons=true&hide=issues,contribs&theme=tokyonight  )](https://github.com/anuraghazra/github-readme-stats)
-</a></div>
-
-
+<iframe src="https://funhtml5games.com?embed=pacman" style="width:342px;height:490px;border:none;" frameborder="0" scrolling="no"></iframe>
