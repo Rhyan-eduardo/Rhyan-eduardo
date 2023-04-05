@@ -103,7 +103,7 @@
 
 <div><center>
   <a href="https://github.com/Rhyan-eduardo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rhyan-eduardo&amp;show_icons=true&amp;theme=vue-dark&amp;include_all_commits=true&amp;count_private=true" style="max-width:100%; padding-bottom: 25px;">
+[![Rhyan Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rhyan-eduardo&count_private=true&show_icons=true&hide=issues,contribs&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 </a></div>
 
 
