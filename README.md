@@ -103,7 +103,7 @@
 
 <div><center>
   <a href="https://github.com/Rhyan-eduardo">
-[![Rhyan Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rhyan-eduardo&count_private=true&show_icons=true&hide=issues,contribs&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Rhyan-eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rhyan-eduardo&count_private=true&show_icons=true&hide=issues,contribs&theme=tokyonight  )](https://github.com/anuraghazra/github-readme-stats)
 </a></div>
 
 
